@@ -1,0 +1,2 @@
+<div class="nvbar"><div class="lfnv"><a href="index.php" class="a">EDS Banking</a></div><div class="rgnv"><button onclick="window.location.href='accounts.php'">View All Customers</button><button onclick="window.location.href='record.php'" >Transaction History</button><button onclick="window.location.href='contact.php'" >Contact</button></div></div>
+<body>
